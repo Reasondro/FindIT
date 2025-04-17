@@ -1,0 +1,9 @@
+*.venv
+.venv/
+.venv
+*.png
+scratches
+custom
+catboost_info
+temp
+FindIT_Vik_6.ipynb
